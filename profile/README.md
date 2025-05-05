@@ -1,6 +1,5 @@
 ## Learn more about DailyAi.Studio 
 
-
 ### Services and Consulting
 
 > Bring your ideas to production with ai and automations tools like N8N
